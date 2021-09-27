@@ -1,4 +1,5 @@
 1a) Decide which business to order pizza from
 1b) Take out or delivery
 Decide which type of pizza to order
+3b) extra cheese is my favorite!!
 Decide what toppings to add to the pizza
