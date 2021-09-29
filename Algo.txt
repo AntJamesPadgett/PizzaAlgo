@@ -3,3 +3,5 @@
 Decide which type of pizza to order
 3b) extra cheese is my favorite!!
 Decide what toppings to add to the pizza
+pineapple
+extra cheese
