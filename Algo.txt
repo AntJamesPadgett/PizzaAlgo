@@ -1,2 +1,4 @@
-Decide which business to order pizza from.
-Decide which type of pizza to order.
+1). Decide which business to order pizza from.
+1a).  Order from PizzaHut or Marco Pizza.
+
+2). Decide which type of pizza to order.
